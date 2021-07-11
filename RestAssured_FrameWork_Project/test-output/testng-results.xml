@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="8709" started-at="2021-07-11T12:33:31 IST" finished-at="2021-07-11T12:33:40 IST">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="8709" started-at="2021-07-11T12:33:31 IST" finished-at="2021-07-11T12:33:40 IST">
+      <class name="Org.Testing.TestTriggers.Trigger">
+        <test-method status="PASS" signature="second()[pri:1, instance:Org.Testing.TestTriggers.Trigger@b7dd107]" name="second" duration-ms="8002" started-at="2021-07-11T12:33:32 IST" finished-at="2021-07-11T12:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="first()[pri:2, instance:Org.Testing.TestTriggers.Trigger@b7dd107]" name="first" duration-ms="256" started-at="2021-07-11T12:33:40 IST" finished-at="2021-07-11T12:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="fourth()[pri:3, instance:Org.Testing.TestTriggers.Trigger@b7dd107]" name="fourth" duration-ms="177" started-at="2021-07-11T12:33:40 IST" finished-at="2021-07-11T12:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourth -->
+        <test-method status="PASS" signature="third()[pri:4, instance:Org.Testing.TestTriggers.Trigger@b7dd107]" name="third" duration-ms="122" started-at="2021-07-11T12:33:40 IST" finished-at="2021-07-11T12:33:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+      </class> <!-- Org.Testing.TestTriggers.Trigger -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
